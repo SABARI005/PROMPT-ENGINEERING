@@ -21,6 +21,8 @@ By leveraging techniques such as deep learning and neural networks, generative A
 It includes applications like language models (e.g., GPT), image generators (e.g., DALL-E), and music composers.
 
 # 6. What are LLMs (Large Language Models)?
+<img width="356" alt="llm" src="https://github.com/user-attachments/assets/4257f2ac-1048-4164-a42c-4b1cf9b513bd" />
+
 Large Language Models (LLMs) are a subset of generative AI focused specifically on natural language processing tasks.
 They are trained on extensive text corpora and use deep learning architectures, particularly transformers, to understand and generate human-like text.
 LLMs have billions of parameters and are capable of tasks such as translation, summarization, question answering, and conversational interaction.
@@ -50,6 +52,8 @@ Video Generation Models: GAN-based video generators, RunwayML.
 Code Generation Models: Codex, CodeT5, AlphaCode.
 
 # 9. Architecture of LLMs
+![gen ai model](https://github.com/user-attachments/assets/510b4a12-5da8-49f1-b304-9b65b9322b5f)
+
 The architecture of LLMs is predominantly based on transformers.
 A transformer consists of encoder and decoder blocks that use self-attention mechanisms to process input data.
 Key components of transformer architecture include:
